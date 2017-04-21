@@ -5,4 +5,4 @@
 - Qualquer nova iniciativa tendo o Alagoas Dev como patrono, apenas será inserida como ação do movimento, se estiverem em comum acordo com a maioria dos envolvidos;
 - Nenhum individuo envolvido com o Alagoas Dev tem a autoridade sozinho de validar projetos da comunidade e agregá-lo ao mesmo, pois é a comunidade que cria iniciativas e oferece as mesmas para serem agregadas ao movimento;
 - Para utilização de qualquer material de divulgação do Alagoas Dev ou de qualquer outro projeto dentro do movimento em quaisquer ato de promoção, divulgação ou apoio, uma consulta prévia com os demais envolvidos no movimento e projetos deverá ser feita, visando a integridade do movimento e das marcas;
-- O Alagoas Dev **fomenta ideias** e promove o encontro de pessoas do **mercado mineiro** através de iniciativas da comunidade local;
+- O Alagoas Dev **fomenta ideias** e promove o encontro de pessoas do **mercado alagoano** através de iniciativas da comunidade local;
